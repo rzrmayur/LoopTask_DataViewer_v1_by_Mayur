@@ -8,7 +8,7 @@ This tool requires LoopTask_JSONImport_v1 sql tables with data(imported using JS
 Download LoopTask_JSONImport_v1:
 https://github.com/rzrmayur/LoopTask_JSONImport_v1_by_Mayur
 
-Tutorial:
+LoopTask_DataViewer_v1 - Tutorial:
 1) Copy the files into your server directory
 2) Configure mysql database name,username & password in config.php.
 3) Database name must be the same as for LoopTask_JSONImport_v1 sql tables.
