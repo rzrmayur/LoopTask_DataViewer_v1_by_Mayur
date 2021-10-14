@@ -1,6 +1,6 @@
 # LoopTask_DataViewer_v1 by Mayur Panchal
 
-This application code is based & created using model, view, controller framework.
+This application code is based & created using model, view, controller architectural pattern framework.
 It can view the data from mysql table created by LoopTask_JSONImport_v1.
 
 This tool requires LoopTask_JSONImport_v1 sql tables with data(imported using JSON) to function. 
