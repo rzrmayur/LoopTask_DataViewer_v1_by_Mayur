@@ -87,7 +87,7 @@ define("DEFAULT_EMAIL_ACCOUNT_NAME", "");
 define("DB_HOST", "localhost"); 
 define("DB_USERNAME", "root"); //DB username
 define("DB_PASSWORD", "123456"); //DB Password
-define("DB_NAME", "employee"); //DB name
+define("DB_NAME", "loopdbname"); //DB name
 define("DB_TYPE", "mysql");
 define("DB_PORT", "");
 define("DB_CHARSET", "utf8");
